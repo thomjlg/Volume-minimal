@@ -1,5 +1,5 @@
 #include<iostream>
-#include"defi1.h"
+#include"fct.h"
 #include<math.h>
 using namespace std;
 

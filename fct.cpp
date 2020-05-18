@@ -1,5 +1,5 @@
 #include<iostream>
-#include"defi1.h" //pour inclure la déclaration de la fonction
+#include"fct.h" //pour inclure la déclaration de la fonction
 #include<math.h> //pour utiliser la fonction pow(x, y)
 using namespace std; // pour utiliser cin, cout et endl
 
