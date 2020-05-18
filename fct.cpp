@@ -9,7 +9,7 @@ lLh   Surface_min(unsigned long long int Vmin) { //définition de la fonction Sur
 	unsigned long long int valeur_racine; // variable entière pour la partie entière de la racine cubique
 	unsigned long long int t; // variable entière pour l'intervalle de calcul pour trouver la surface min 
 	unsigned long long int surface; // variable entière initialisée assez grande pour en trouver une plsu petite à la fin
-	unsigned long long int r; // variable entière qui représentera volume.l dans la boucle for
+	unsigned long long int r; // variable entire qui représentera volume.l dans la boucle for
 	unsigned long long int q; // variable entière qui représentera volume.h dans la boucle for
 	unsigned long long int i, j, k, a; // i,j et k servent à trouver les dimensions de l, L et h ; a représente un volume
 	
